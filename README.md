@@ -11,3 +11,5 @@ ___
 
 ## **Авторы проекта:**
 Искендерова Севда, Харитонова Александра, Хасанова Гузель, Филиппова Вероника.
+
+[Ссылка на файл эпох](https://drive.google.com/file/d/1qela4LGq4nqsW9C-VGOQOXjMH_fJnNg1/view?usp=sharing)
